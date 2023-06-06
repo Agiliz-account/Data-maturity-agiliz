@@ -13,3 +13,7 @@ datagroup: data_maturity_model_default_datagroup {
 }
 
 persist_with: data_maturity_model_default_datagroup
+
+explore: combined_view {
+  view_name: combined_view
+}
